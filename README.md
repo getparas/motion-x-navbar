@@ -27,34 +27,30 @@ A beautiful, animated navbar built with Next.js, Tailwind CSS, and Motion.
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
-\`\`\`bash
-git clone https://github.com/yourusername/motion-x-navbar.git
-cd motion-x-navbar
-\`\`\`
+    ```bash
+    git clone https://github.com/yourusername/motion-x-navbar.git
+    cd motion-x-navbar
+    ```
 
-2. Install dependencies:
+2. **Install dependencies:**
 
-\`\`\`bash
-npm install
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
 
-# or
+3. **Run the development server:**
 
-yarn install
-\`\`\`
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    ```
 
-3. Run the development server:
-
-\`\`\`bash
-npm run dev
-
-# or
-
-yarn dev
-\`\`\`
-
-4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. **Open** [http://localhost:3000](http://localhost:3000) **with your browser to see the result.**
 
 ## Customization
 
