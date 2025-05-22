@@ -30,7 +30,7 @@ A beautiful, animated navbar built with Next.js, Tailwind CSS, and Motion.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/motion-x-navbar.git
+    https://github.com/getparas/motion-x-navbar
     cd motion-x-navbar
     ```
 
